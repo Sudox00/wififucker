@@ -6,7 +6,7 @@
  -  Устанавливаем папку со скриптом:
   >> git clone https://github.com/Sudox00/wififucker 
   
- - Перекидывем скрипт wififucker в папку root
+ - Перекидывем скрипт wififucker.py в папку root
  
  - Открываем терминал
  
