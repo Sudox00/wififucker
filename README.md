@@ -3,15 +3,17 @@
 
 ## Установка и запуск:
 ### LINUX:
+
+ - Входим в режим root:
+  >> sudo -i
  -  Устанавливаем папку со скриптом:
   >> git clone https://github.com/Sudox00/wififucker 
   
- - Перекидывем скрипт wififucker.py в папку root
- 
- - Открываем терминал
- 
- - В терминал вписываем:
-  >> sudo -i
+ -  Входим в папку со скриптом:
+  >> cd wififucker 
+
+ - Запускаем: 
+  >> python3 wififucker.py
   
   -----
   [КАНАЛ В ТЕЛЕГРАММЕ](https://t.me/wififucker "КАНАЛ В ТЕЛЕГРАММЕ") | [Я В ТЕЛЕГРАММЕ](https://t.me/soketpy "Я В ТЕЛЕГРАММЕ")
