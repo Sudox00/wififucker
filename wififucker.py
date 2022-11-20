@@ -29,7 +29,7 @@ while True:
 		print("!!! ДЛЯ ОТКЛЮЧЕНИЯ ИСПОЛЬЗУЙТЕ CTRL+Z !!!")
 		sleep(3)
 		while True:
-			os.system("aireplay-ng -0 0 -e " + str(wifiuser) +" " + str(adapter))
+			os.system("aireplay-ng -0 0 -e \"%s\" %s"   % ( str(wifiuser), str(adapter)))
 	elif menu == "2":
 		adapter = input("Введите название название адаптера:")
 		print("!!! ДЛЯ ОТКЛЮЧЕНИЯ ИСПОЛЬЗУЙТЕ CTRL+Z !!!")
