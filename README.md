@@ -1,4 +1,4 @@
-# wififucker
+# wififucker 1.1
 > Wi-Fi DEAUTH/ALL NETWORKS/INFORMATION ABOUT WIRELESS WI-FI DEVICES (RUS)
 
 ## Установка и запуск:
